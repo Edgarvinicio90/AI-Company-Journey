@@ -1,6 +1,5 @@
 # AI-Company-Journey
 Building AI solutions
-# AI Company Journey
 
 ## Day 1 - June 11, 2026
 
